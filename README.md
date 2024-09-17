@@ -6,7 +6,7 @@ The project was developed as part of my coursework in the Fundamentals of Machin
 This project involves the implementation of a Multi-Layer Neural Network (MLP) from scratch for the classification of 15 different flower species. The dataset is processed and fed into the neural network for training, followed by evaluation on the test set.
 
 ## Dataset
-
+The dataset can be downloaded from the following link: https://drive.google.com/file/d/1zhP3F6anZEmOkmZZOfXN_soSxdtkK2Rn/view
 The dataset consists of images of 15 different flower species:
 - **Classes:** Aster, Calendula, California Poppy, Coreopsis, Dandelion, Daisy, Iris, Lavender, Lily, Marigold, Orchid, Poppy, Rose, Sunflower, Tulip.
 - **Train, Validation, Test splits:**
